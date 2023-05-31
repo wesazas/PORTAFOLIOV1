@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300,400,500,600,700,800,900&display=swap');
+
+body{
+    margin: 10px;
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    background: #cfd7d7;
+  }
+
+  th, td {
+    border: 4px solid black;
+    padding: 10px;
+  }
+
+
+.productos tr:first-child{
+    background-color: rgb(65, 80, 190);
+}
+
+.productos img{
+    max-width: 200px; 
+}
+
+
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 200px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.card h3 {
+  margin: 0;
+}
+
+.card p {
+  margin: 0;
+  color: #888;
+}

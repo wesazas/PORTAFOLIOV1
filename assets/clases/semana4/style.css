@@ -1,0 +1,56 @@
+#circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #0400ff; 
+    position: relative;
+    animation: movimiento 1s linear infinite;
+  }
+  .container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    border: 3px solid rgb(0, 0, 0);
+    margin-top : 300px;
+    margin-left: 500px;
+
+
+  }
+  .button-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  @keyframes movimiento {
+    0% { 
+      left: calc(-200px)
+    }
+    100% {
+      left: calc(200px);
+    }
+  }
+
+
+  #play, #pause, #stop, #reverse {
+    background-color: #4CAF50; /* Set background color */
+    border: none; /* Remove border */
+    color: white; /* Set text color */
+    padding: 10px 20px; /* Add some padding */
+    text-align: center; /* Center text */
+    text-decoration: none; /* Remove text decoration */
+    display: inline-block; /* Make it inline */
+    font-size: 16px; /* Set font size */
+    margin: 4px 2px; /* Add some margin */
+    cursor: pointer; /* Add cursor pointer on hover */
+  }
+  
+  #play:hover, #pause:hover, #stop:hover, #reverse:hover {
+    background-color: #3e8e41; /* Set darker background color on hover */
+  }
+  
+
+ 
+  

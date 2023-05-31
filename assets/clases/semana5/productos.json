@@ -1,0 +1,39 @@
+[
+    {
+      "foto":"https://licoreria247.pe/wp-content/uploads/2020/05/RON-GRAN-A%C3%91EJO-BARCEL%C3%93-Garrafa-de-1.75-L.jpg",
+      "nombre": "RON GRAN AÑEJO BARCELÓ Garrafa de 1.75 L",
+      "descripcion": "RON GRAN AÑEJO BARCELÓ es elaborado a partir de una mezcla de rones envejecidos en barriles de bourbon de roble americano de primer uso. Como resultado de un cuidadoso proceso de elaboración, obtenemos un ron ligero y un bouquet único. Considerado por muchos como el ron perfecto, es ideal para tomarlo combinado con cola y acompañado de una rodaja de limón.",
+      "precio": "S/90.90"
+    },
+    {
+      "foto": "https://licoreria247.pe/wp-content/uploads/2020/06/RON-DIPLOM%C3%81TICO-Reserva-Exclusiva-Botella-de-750ml-1.jpg",
+      "nombre": "RON DIPLOMÁTICO RESERVA EXCLUSIVA CE Botella de 750ml",
+      "descripcion": "Ron Diplomático Reserva Exclusiva es un fabuloso ron venezolano dorado oscuro, destilado de melaza en una olla de cobre y envejecido cuidadosamente por 12 años para lograr ese sabor único que solo este ron puede ofrecer.Rico, dulce y afrutado, como debería de ser un ron de calidad. El Ron Diplomático Reserva Exclusiva es uno de los rones más premiados del mundo, con más de 20 premios a su nombre.",
+      "precio": "S/198.90"
+    },
+    {
+        "foto": "https://licoreria247.pe/wp-content/uploads/2020/05/RON-ZACAPA-XO-Botella-de-750-ml-1.jpg",
+        "nombre": "RON ZACAPA XO Botella de 750 ml",
+        "descripcion": "Hay algunas cosas que hacen que Ron Zacapa XO Rum sea único. Primero, los rones de Zacapa se produce con miel de caña de azúcar (el jugo fresco de caña de azúcar se condensa y filtra) en lugar de la melaza tradicional. En segundo lugar, los rones se destilan al nivel del mar, pero se envejecen en la ciudad de Quetzaltenango a una altitud de 7544 pies. En tercer lugar, este ron se envejece en un sistema de solera utilizando una variedad de barricas con edades comprendidas entre 6 y 23 años utilizando barriles de jerez, bourbon y Pedro Ximenez. El ron se termina en barriles de coñac por un año adicional. Tenga en cuenta que el término «XO» no tiene sentido en el mundo del ron, pero es una pista de que se utilizaron barriles de coñac.",
+        "precio": "S/589.90"
+      },
+      {
+        "foto": "https://licoreria247.pe/wp-content/uploads/2020/07/RON-FLOR-DE-CA%C3%91A-5-A%C3%91OS-Botella-750-ML-.jpg",
+        "nombre": "RON FLOR DE CAÑA 5 AÑOS Botella 750 ML",
+        "descripcion": "Flor de Caña 5 años es un ron Añejo Clásico con agradable aroma a caramelo y con toques de tabaco y especias de roble, que revela aromas de toffe y vainilla mientras se asienta el vaso. El mejor precio del ron Flor de Caña 5 años lo encuentras en Licoreria247 y puedes comprar ron flor de caña por nuestra tienda online y puedes preparar cócteles como un delicioso daiquiri.",
+        "precio": "S/51.90"
+      },
+      {
+        "foto":"https://licoreria247.pe/wp-content/uploads/2023/05/RON-KINGSTON-62-BLANCO-Botella-1-litro.jpg",
+        "nombre": "RON KINGSTON 62 BLANCO Botella 1 litro",
+        "descripcion": "Descubre el sabor fresco y suave del ron RON KINGSTON 62 BLANCO. Elaborado con los mejores ingredientes y siguiendo las tradiciones más arraigadas de la destilería jamaicana, este ron te sorprenderá con su aroma a frutas tropicales y su sabor equilibrado y refrescante.Este ron blanco es perfecto para mezclar en cócteles y disfrutar en cualquier ocasión. Su presentación en botella de 1 litro es ideal para compartir con amigos y familiares en fiestas y celebraciones.El ron RON KINGSTON 62 BLANCO es uno de los rones más populares en el mercado, gracias a su sabor excepcional y su calidad superior. Además, su botella elegante y su diseño moderno lo hacen un regalo ideal para aquellos que buscan un destilado de alta calidad.Si buscas un ron blanco suave y refrescante que te transporte a las playas tropicales de Jamaica, no puedes dejar de probar el ron RON KINGSTON 62 BLANCO. ¡Haz tu pedido ahora y disfruta de su sabor excepcional!",
+        "precio": " S/44.90        "
+      },
+      {
+        "foto": "https://licoreria247.pe/wp-content/uploads/2021/02/THE-MACALLAN-18-ANOS-DOUBLE-CASK-LICORERIA247.jpg",
+        "nombre": "WHISKY THE MACALLAN 18 AÑOS DOUBLE CASK Botella de 700ML",
+        "descripcion": "WHISKY THE MACALLAN 18 AÑOS DOUBLE CASK trató a este joven de 18 años no solo con uno, sino con dos tipos de barriles para su maduración, lanzados como parte de la serie Double Cask! El jerez oloroso se utilizó para sazonar una combinación de barricas de roble americano y europeo, con el primero impartiendo matices de vainilla mientras que el segundo aporta esa especia distintiva de Macallan. ¡Otro fantástico single malt sherried de la destilería de Speyside!",
+        "precio": "S/2,150.00"
+      }
+  ]
+  
